@@ -6,7 +6,7 @@
 
 💼 In my professional experience at Mobileum India Pvt. Ltd., I excelled in application support, responding promptly to inquiries and achieving a 95% customer satisfaction rate. My expertise in troubleshooting and incident management led to a 40% reduction in resolution time through root cause analysis and permanent fixes.
 
-🔍 My aptitude for investigation and resolution of complex issues resulted in a remarkable 30% reduction in ticket volume. Collaborating with cross-functional teams, I successfully resolved over 50 complex issues, promoting seamless collaboration and timely resolutions.
+🔍 My aptitude for investigation and resolution of complex issues resulted in a remarkable 30% reduction in ticket volume. Collaborating with cross-functional teams, I successfully resolved over 100+ complex issues, promoting seamless collaboration and timely resolutions.
 
 📈 During my tenure as a Senior Business Analyst at Subex Limited, I made significant contributions to fraud monitoring and analysis. Through implementing fraud prevention measures, including detection systems and algorithms, I achieved a substantial 25% reduction in fraudulent activity.
 
