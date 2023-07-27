@@ -1,4 +1,4 @@
-### Hi there 👋, Arshia Agarwal
+### Hi there 👋
 #### Technical Business Analyst
 ![Technical Business Analyst](https://camo.githubusercontent.com/5fed19f52d68664c5b5475202b5626223460635ad3a399c68b718060698ddd79/68747470733a2f2f632e74656e6f722e636f6d2f505039763756497336523441414141642f7363616c65722d6372656174652d696d706163742e676966)
 
